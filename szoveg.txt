@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html lang="hu">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="refresh" content="5"/>
-    <title>Börzsönyi kirándulás</title>
-    <link rel="stylesheet" href="./stilus.css"/>
-</head>
-<body>
-    Kedves Kollégák! Kedves Tanulók!
+Kedves Kollégák! Kedves Tanulók!
 Gyertek kirándulni! Megyünk a Börzsönybe.
 
 Egész napos autóbuszos kirándulást szervezünk e hét szombatra a Börzsönybe. Úticéljaink:
@@ -39,6 +29,3 @@ este 10 óra körül
 
 Jelentkezés:
 Mókus Örsnél telefonon, vagy e-mailben
-
-</body>
-</html>

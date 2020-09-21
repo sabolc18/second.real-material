@@ -1,0 +1,11 @@
+html {
+    background-color: #ffffff;
+    padding-top: 30px;
+}
+body {
+    /* A body középrezárása*/
+    background-color: #ddffdd;
+    width: 80%;
+    margin: auto;
+    padding-top: 50px;
+}
