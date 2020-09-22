@@ -1,3 +1,4 @@
+
 html {
     background-color: #ffffff;
     padding-top: 30px;
@@ -5,7 +6,7 @@ html {
 body {
     /* A body középrezárása*/
     background-color: #ddffdd;
-    width: 80%;
+    width: 50%;
     margin: auto;
     padding-top: 50px;
     padding-left: 20px;
@@ -19,4 +20,22 @@ h1 {
 }
 p {
     font-weight: bold;
+}
+img {
+    width: 130px;
+    float: right;
+}
+.belso {
+    list-style-type: none;
+    padding-bottom: 40px;
+}
+#terkep {
+    float: none;
+    margin:auto;
+    display: block;
+    width: 500px;
+}
+.behuz {
+    font-weight: normal;
+    text-indent: 50px;
 }
